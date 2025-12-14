@@ -1,10 +1,11 @@
 # Interviews
 
 ## Tell Me About Yourself
-“I’m a Senior Software Engineer with around 15 years of experience building large-scale backend systems.
-Currently at Sainsbury’s, I work on Java and Spring Boot microservices running on AWS and Kubernetes, supporting customer-facing retail platforms. My focus is on production readiness—reliability, observability, performance, and incident handling.
+I’m a Senior Software Engineer with around 15 years of experience building large-scale backend systems.
 
-Before that, I worked on distributed payment systems at Cognizant for clients like BNY Mellon, Mastercard, and Visa, and I also mentor engineers across teams. I enjoy owning services end to end and working on systems where scale and reliability really matter.”
+Currently at Sainsbury’s, I work on Java and Spring Boot microservices running on AWS and Kubernetes, supporting customer-facing retail platforms. My focus is on production readiness — reliability, observability, performance, and incident handling.
+
+Before that, I worked on distributed systems at Cognizant for large enterprise clients including BNY Mellon, Mastercard, and Visa, and I also mentor engineers across teams. I enjoy owning services end to end and working on systems where scale and reliability really matter.
 
 OR
 
