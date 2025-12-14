@@ -1,24 +1,17 @@
 # Interviews
 
 ## Tell Me About Yourself
-I’m a Senior Software Engineer with around 15 years of experience building large-scale backend systems.
+Yeah, so I’m a Senior Software Engineer with about 15 years of experience, mostly working on large backend systems.
 
-Currently at Sainsbury’s, I work on Java and Spring Boot microservices running on AWS and Kubernetes, supporting customer-facing retail platforms. My focus is on production readiness — reliability, observability, performance, and incident handling.
+At the moment, I’m at Sainsbury’s. I work on Java and Spring Boot microservices that run on AWS and Kubernetes, supporting customer-facing retail platforms. A big part of my job is making sure things run properly in production — reliability, monitoring, performance, and handling incidents when they happen.
 
-Before that, I worked on distributed systems at Cognizant for large enterprise clients including BNY Mellon, Mastercard, and Visa, and I also mentor engineers across teams. I enjoy owning services end to end and working on systems where scale and reliability really matter.
+Before that, I was at Cognizant, working on distributed systems for large enterprise clients like BNY Mellon, Mastercard, and Visa. I also spent time mentoring engineers across different teams.
 
-OR
+In my day-to-day work, I usually own services end to end — from designing and building them to deploying, monitoring, and fixing issues, including doing root cause analysis. I work closely with product managers and other stakeholders and take responsibility for what I deliver.
 
-Senior Software Engineer with 15+ years of experience designing, building, and operating high-availability, fault-tolerant distributed systems across retail, fintech, and payments domains.
+I’m mainly backend-focused, but I’m comfortable working full-stack when needed and working closely with frontend teams to deliver complete customer experiences.
 
-Currently at Sainsbury’s, I work on backend microservices using Java and Spring Boot, deployed on AWS and Kubernetes, supporting customer-facing platforms at real retail scale. My focus is on event-driven systems, production readiness, observability, and resilience—ensuring services behave reliably under peak demand, not just in design documents.
-
-Previously at Cognizant, I worked on distributed payment systems for clients including BNY Mellon, Mastercard, and Visa, contributing to architecture decisions around security, performance, and fault tolerance, and mentoring engineers across teams.
-
-I regularly own services end-to-end—from design and implementation to deployment, monitoring, incident response, and RCA. I enjoy mentoring junior engineers, collaborating closely with product and stakeholders, and taking clear ownership of product-facing services. While primarily backend-focused, I’m comfortable working full-stack when needed and partnering with frontend teams to deliver complete customer experiences.
-
-I’m motivated by building platforms teams can trust and systems customers never have to think about, where strong engineering fundamentals make a real impact at scale.
-
+Overall, I enjoy building systems that teams can trust and that customers don’t really have to think about, where strong basics keep systems reliable as they grow.
 ## Do you have experience owning production systems?
 ```angular2html
 Yes. I own services end-to-end — from development and deployment to monitoring, 
