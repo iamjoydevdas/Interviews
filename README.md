@@ -115,3 +115,13 @@ Over time, I’ve realised that I’m looking for a role where I can work on lar
 I’m now at a point in my career where I want to challenge myself further and 
 broaden my experience, rather than move because of any negative reasons.
 
+## Have you used Akka or Cassandra?” (with Kafka, SQS, DynamoDB experience)
+
+I haven’t used Akka or Cassandra directly, but I’ve worked extensively with Kafka, SQS, and DynamoDB, building distributed, event-driven systems in production.
+
+With Kafka and SQS, I’ve designed asynchronous workflows, handled retries, idempotency, and failure scenarios, and made sure systems stay reliable under load.
+
+With DynamoDB, I’ve worked with high-throughput data access patterns, eventual consistency, and designing services that behave predictably in a distributed environment.
+
+Because of that experience, I’m very comfortable with the underlying principles behind tools like Akka and Cassandra, and I’m confident picking them up quickly when needed.
+
