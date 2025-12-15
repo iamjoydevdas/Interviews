@@ -117,7 +117,7 @@ broaden my experience, rather than move because of any negative reasons.
 
 ## Have you used Akka or Cassandra?” (with Kafka, SQS, DynamoDB experience)
 
-I haven’t used Akka or Cassandra directly, but I’ve worked extensively with Kafka, SQS, and DynamoDB, building distributed, event-driven systems in production.
+I haven’t used Akka or Cassandra directly, but I’ve worked extensively with Kafka, SQS, Redis and DynamoDB, building distributed, event-driven systems in production.
 
 With Kafka and SQS, I’ve designed asynchronous workflows, handled retries, idempotency, and failure scenarios, and made sure systems stay reliable under load.
 
